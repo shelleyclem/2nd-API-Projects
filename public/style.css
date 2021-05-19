@@ -1,0 +1,29 @@
+.wrapper {
+background-color: #000000;
+background-image: url("https://www.transparenttextures.com/patterns/white-wave.png");
+padding: 10%;
+height: 200vh;
+overflow-x: hidden;
+
+}
+
+header {
+    background-color: floralwhite;
+}
+    
+h1 {
+    text-align: center;
+    padding: 1.5em;
+    margin-bottom: 1.5em;
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    font-size: 2em;
+}
+
+.container-fluid {
+    justify-content: space-evenly;
+    padding: 5em;
+}
+
+#searchArea {
+    margin-left: 38%;
+}
